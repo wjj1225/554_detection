@@ -7,4 +7,4 @@ Before running, download yolo3 weights to yolo3 folder
 
 And then run tennis.ipynb file, follow steps in the file
 
-
+The output video is in the VideoOutput folder
